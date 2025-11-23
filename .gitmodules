@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "forward"]
+	path = forward
+	url = https://github.com/cran/forward
+[submodule "metaplus"]
+	path = metaplus
+	url = https://github.com/cran/metaplus
+[submodule "randomLCA"]
+	path = randomLCA
+	url = https://github.com/cran/randomLCA
+[submodule "robmixglm"]
+	path = robmixglm
+	url = https://github.com/cran/robmixglm
